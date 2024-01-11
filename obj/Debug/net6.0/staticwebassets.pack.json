@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/sundehakon/Documents/Hangman/bin/Debug/net6.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/sundehakon/Documents/Hangman/obj/Debug/net6.0/compressed/ttx0mlbl6f.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/sundehakon/Documents/Hangman/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/sundehakon/Documents/Hangman/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/sundehakon/Documents/Hangman/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.Hangman.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.Hangman.props",
+      "PackagePath": "build\\Hangman.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Hangman.props",
+      "PackagePath": "buildMultiTargeting\\Hangman.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Hangman.props",
+      "PackagePath": "buildTransitive\\Hangman.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
